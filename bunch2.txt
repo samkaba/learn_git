@@ -1,1 +1,2 @@
 lorem 2
+new line added here
